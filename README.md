@@ -1,1 +1,1 @@
-### python app
+### this project how to work wtih flask and docker
